@@ -15,7 +15,7 @@ This project demonstrates the usage of Node.js packages, command-line interactiv
 
 ##  Tech Stack
 - **Node.js**
-- [Inquirer](https://www.npmjs.com/package/inquirer) → for interactive user input.
+- [Inquirer](https://www.npmjs.com/package/@inquirer/prompts) → for interactive user input.
 - [qr-image](https://www.npmjs.com/package/qr-image) → for generating QR codes.
 
 ---
